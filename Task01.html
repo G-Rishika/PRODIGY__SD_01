@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Temperature Converter </title>
+    <style>
+      body{
+        font-family: Times New Roman;
+        color: rgb(92, 176, 228);
+        text-aling: center;
+        margin-top: 100px;
+      }
+      input, select, button {
+        padding: 10px;
+        color: blueviolet;
+        margin: 10px;
+      }
+      #result {
+        margin-top: 50;
+        color: blueviolet;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  
+  <body>
+    <h2> Temperature Converter </h2>
+    <input type="number" id="tempvalue" placeholder="Enter temperature">
+    <select id="unit">
+      <option value ="Celsius"> Celsius </option>
+      <option value ="Fahrenheit"> Fahrenheit </option>
+      <option value ="Kelvin"> Kelvin </option>
+    </select>
+    
+    <br>
+    <button onclick="convertTemp()"> Convert </button>
+    <div id="result"></div>
+    <script>
+      function convertTemp() {
+        const value = parseFloat(document.getElementById("tempvalue").value);
+        const unit = document.getElementById("unit").value;
+        let result = "";
+
+        if (isNanN(value)) {
+          result = "Please enter a valid number.";
+        }
+        else{
+          if (unit === "Celsius") {
+            let f = (value* 9/5) + 32
+        
+    </script>
+
+    
+  </body>
+</html>
