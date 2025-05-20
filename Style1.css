@@ -2,14 +2,14 @@ body {
   font-family: Arial;
   color: rgb(92, 176, 228);
   text-align: center;
-  margin-top: 100px;
+  margin-top: 200px;
 }
 
 input, select, button {
   padding: 10px;
   color: blueviolet;
   margin: 10px;
-  border-radius: 20px; /* Curvy corners */
+  border-radius: 20px; 
   border: 1px solid lightgray;
 }
 
@@ -19,6 +19,6 @@ input, select, button {
   font-weight: bold;
   padding: 15px;
   display: inline-block;
-  border-radius: 25px; /* Curvy result box */
+  border-radius: 25px;
 }
 
