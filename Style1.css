@@ -17,7 +17,6 @@ input, select, button {
   margin-top: 50px;
   color: blueviolet;
   font-weight: bold;
-  border: 2px solid rgb(92, 176, 228);
   padding: 15px;
   display: inline-block;
   border-radius: 25px; /* Curvy result box */
