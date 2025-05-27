@@ -34,5 +34,5 @@ Learning Outcomes
   Practiced writing clean code.
 
 Created by 
-  Rishika G,
+  Rishika.G,
   B.Sc Computer Science with Artificial Intelligence 
