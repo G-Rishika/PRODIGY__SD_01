@@ -1,4 +1,4 @@
-Temperature Converter
+Temperature Converter - Internship Task 1
 
 This is a simple and interactive Temperature Converter built using HTML, CSS, and JavaScript.
 It allows users to convert temperature values between Celsius, Fahrenheit, and Kelvin in the browser.
@@ -24,3 +24,11 @@ How to Use
   Select the unit of the input temperature.
   Click on the Convert button.
   The converted values will be displayed below.
+
+Learning Outcomes
+
+  Gained hands-on experience with HTML, CSS, and JavaScript.
+  Understood and implemented temperature conversion formulas.
+  Learned to handle user input and DOM manipulation in JavaScript.
+  Improved skills in input validation and basic UI design.
+  Practiced writing clean code.
