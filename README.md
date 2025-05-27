@@ -32,3 +32,7 @@ Learning Outcomes
   Learned to handle user input and DOM manipulation in JavaScript.
   Improved skills in input validation and basic UI design.
   Practiced writing clean code.
+
+Created by 
+  Rishika G,
+  B.Sc Computer Science with Artificial Intelligence 
